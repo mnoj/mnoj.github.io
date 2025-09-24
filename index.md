@@ -40,6 +40,8 @@ As a Assistant Professor, I help students in courses such as:
 - **Software-Defined Radio (SDR) Receivers**
 
 As an Associate Professor, I lead lectures and laboratory sessions, guiding students through both theoretical foundations and practical applications. My teaching integrates hands-on use of advanced software tools such as GNU Radio and ADS, enabling students to gain experience in simulation, design, and experimental validation of communication systems.
+
+
 ---
 
 ## 🔗 Find me online
