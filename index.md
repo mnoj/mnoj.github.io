@@ -4,7 +4,7 @@ title: Welcome
 ---
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="/assets/img/profile.jpg" alt="Jon Montalban" style="width:150px; height:150px; object-fit: cover; border-radius: 50%;">
+  <img src="/assets/img/BIO.Photo_Low.png" alt="Jon Montalban" style="width:150px; height:150px; object-fit: cover; border-radius: 50%;">
   <div>
     <h1 style="margin: 0;">Jon Montalban</h1>
     <p><strong>Associate Professor & Researcher</strong><br>
