@@ -12,13 +12,6 @@ title: Welcome
   </div>
 </div>
 
-# Jon Montalban
-
-**Researcher & Teaching Assistant**  
-University of the Basque Country (UPV/EHU)
-
----
-
 Welcome! I am a researcher and teaching assistant at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/). My work focuses on [wireless communications, signal processing, SDR systems]. I am passionate about both cutting-edge research and high-quality education.
 
 📅 **Schedule a Tutoring Session**  
