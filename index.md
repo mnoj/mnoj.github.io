@@ -5,14 +5,13 @@ date: 2025-11-15
 lang: eu
 ---
 
-<!doctype html>
 <html lang="eu">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Zorionak!</title>
   <style>
-    :root{font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; color:#1f2937}
+    :root{font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; color:#1f2957}
     body{max-width:880px;margin:32px auto;padding:28px;line-height:1.6;background:#fbfbfd;text-align:center}
     header{border-bottom:3px solid #e6e9ef;padding-bottom:14px;margin-bottom:22px}
     h1{margin:0 0 8px;font-size:38px;color:#b91c1c;font-weight:700}
