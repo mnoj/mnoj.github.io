@@ -10,7 +10,7 @@ lang: eu
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Zorionak! Menu Berezia — Azaroak 15</title>
+  <title>Zorionak!</title>
   <style>
     :root{font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; color:#1f2937}
     body{max-width:880px;margin:32px auto;padding:28px;line-height:1.6;background:#fbfbfd;text-align:center}
@@ -31,8 +31,7 @@ lang: eu
 </head>
 <body>
   <header>
-    <h1>Zorionak!</h1>
-    <div class="date">Azaroak 15</div>
+    <h1>Azaroak 15</h1>
     <h2>Menu Berezia</h2>
     <nav>
       <a href="#entrantes">Hasierak</a>
@@ -75,7 +74,5 @@ lang: eu
       </ul>
     </section>
   </main>
-
-  <div class="footer">Orria GitHub Pages (Jekyll) erabiliz sortuta. Front matter YAML fitxategiaren hasieran dago: date = 2025-11-15.</div>
 </body>
 </html>
