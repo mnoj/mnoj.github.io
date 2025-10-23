@@ -34,7 +34,7 @@ lang: eu
     <h1>Azaroak 15</h1>
     <h2>Menu Berezia</h2>
     <nav>
-      <a href="#entrantes">Hasierak</a>
+      <a href="#entrantes">Hasierakoak</a>
       <a href="#intermedio">Erdikoa</a>
       <a href="#principales">Plater nagusiak</a>
       <a href="#postres">Postreak</a>
