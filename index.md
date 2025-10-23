@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Menu Berezia"
+title: "Zorionak! Menu Berezia"
 date: 2025-11-15
 lang: eu
 ---
@@ -10,28 +10,30 @@ lang: eu
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Menu Berezia — azaroaren 15a</title>
+  <title>Zorionak! Menu Berezia — Azaroak 15</title>
   <style>
     :root{font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; color:#1f2937}
-    body{max-width:880px;margin:32px auto;padding:28px;line-height:1.6;background:#fbfbfd}
+    body{max-width:880px;margin:32px auto;padding:28px;line-height:1.6;background:#fbfbfd;text-align:center}
     header{border-bottom:3px solid #e6e9ef;padding-bottom:14px;margin-bottom:22px}
-    h1{margin:0 0 6px;font-size:30px}
-    .date{color:#6b7280;font-weight:500}
+    h1{margin:0 0 8px;font-size:38px;color:#b91c1c;font-weight:700}
+    h2{color:#111827}
+    .date{color:#374151;font-size:22px;font-weight:600;margin-bottom:10px}
     nav{margin-top:12px}
     nav a{margin-right:12px;text-decoration:none;color:#374151;font-weight:600}
-    .card{background:#ffffff;border:1px solid #eef2f7;border-radius:12px;padding:18px;box-shadow:0 6px 18px rgba(17,24,39,0.04)}
-    section.course{margin:18px 0}
-    section.course h2{margin:0 0 10px;font-size:18px}
+    .card{background:#ffffff;border:1px solid #eef2f7;border-radius:12px;padding:24px;box-shadow:0 6px 18px rgba(17,24,39,0.04);text-align:left}
+    section.course{margin:24px 0}
+    section.course h2{margin:0 0 12px;font-size:22px;color:#0f172a;border-bottom:2px solid #f1f5f9;display:inline-block;padding-bottom:4px}
     ul{margin:6px 0 0 1.1em}
     li{margin:6px 0}
     .footer{border-top:1px solid #eef2f7;padding-top:12px;margin-top:28px;color:#6b7280;font-size:14px}
-    @media (max-width:600px){body{padding:16px}h1{font-size:22px}}
+    @media (max-width:600px){body{padding:16px}h1{font-size:28px}.date{font-size:18px}section.course h2{font-size:20px}}
   </style>
 </head>
 <body>
   <header>
-    <h1>Menu Berezia</h1>
+    <h1>Zorionak!</h1>
     <div class="date">Azaroak 15</div>
+    <h2>Menu Berezia</h2>
     <nav>
       <a href="#entrantes">Hasierak</a>
       <a href="#intermedio">Erdikoa</a>
