@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Zorionak! Menu Berezia"
+title: "Zorionak!"
 date: 2025-11-15
 lang: eu
 ---
