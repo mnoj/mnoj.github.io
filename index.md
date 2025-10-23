@@ -1,55 +1,79 @@
 ---
-layout: default
-title: Welcome
+layout: page
+title: "Menu Berezia"
+date: 2025-11-15
+lang: eu
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="/assets/img/BIO.Photo_Low.png" alt="Jon Montalban" style="width:150px; height:150px; object-fit: cover; border-radius: 50%;">
-  <div>
-    <h1 style="margin: 0;">Jon Montalban</h1>
-    <p><strong>Associate Professor & Researcher</strong><br>
-    University of the Basque Country (UPV/EHU)</p>
-  </div>
-</div>
+<!doctype html>
+<html lang="eu">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Menu Berezia — azaroaren 15a</title>
+  <style>
+    :root{font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; color:#1f2937}
+    body{max-width:880px;margin:32px auto;padding:28px;line-height:1.6;background:#fbfbfd}
+    header{border-bottom:3px solid #e6e9ef;padding-bottom:14px;margin-bottom:22px}
+    h1{margin:0 0 6px;font-size:30px}
+    .date{color:#6b7280;font-weight:500}
+    nav{margin-top:12px}
+    nav a{margin-right:12px;text-decoration:none;color:#374151;font-weight:600}
+    .card{background:#ffffff;border:1px solid #eef2f7;border-radius:12px;padding:18px;box-shadow:0 6px 18px rgba(17,24,39,0.04)}
+    section.course{margin:18px 0}
+    section.course h2{margin:0 0 10px;font-size:18px}
+    ul{margin:6px 0 0 1.1em}
+    li{margin:6px 0}
+    .footer{border-top:1px solid #eef2f7;padding-top:12px;margin-top:28px;color:#6b7280;font-size:14px}
+    @media (max-width:600px){body{padding:16px}h1{font-size:22px}}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Menu Berezia</h1>
+    <div class="date">Azaroak 15</div>
+    <nav>
+      <a href="#entrantes">Hasierak</a>
+      <a href="#intermedio">Erdikoa</a>
+      <a href="#principales">Plater nagusiak</a>
+      <a href="#postres">Postreak</a>
+    </nav>
+  </header>
 
-Welcome! I am a researcher and teaching assistant at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/). My work focuses on [wireless communications, signal processing, SDR systems]. I am passionate about both cutting-edge research and high-quality education.
+  <main class="card">
+    <section id="entrantes" class="course">
+      <h2>Hasierak</h2>
+      <ul>
+        <li>Porru royala perretxiko kontsometkin.</li>
+        <li>Marinatutako antxoazko lasagna hotza eta barazki pistoa.</li>
+        <li>Txangurrua Donostiarra, pil-pil aparrarekin.</li>
+      </ul>
+    </section>
 
-📅 **Schedule a Tutoring Session**  
-- [Book via YouCanBookMe](https://mnoj.youcanbook.me/)  
-- [Alternative via TidyCal](https://tidycal.com/mnoj/tutoria)
+    <section id="intermedio" class="course">
+      <h2>Erdikoa</h2>
+      <ul>
+        <li>Arrautza errea Idiazabal gazta saldarekin.</li>
+      </ul>
+    </section>
 
----
+    <section id="principales" class="course">
+      <h2>Plater nagusiak</h2>
+      <ul>
+        <li>Legatza plantxan zitrikoen ozpin-olioarekin.</li>
+        <li>Presa iberiarra eta patata-purea.</li>
+      </ul>
+    </section>
 
-## 🔬 Research
+    <section id="postres" class="course">
+      <h2>Postreak</h2>
+      <ul>
+        <li>Sasoiko fruta, maskarpone krema eta galleta (mantekinezko galleta).</li>
+        <li>Torrada karamelizatua etxeko izozkiarekin.</li>
+      </ul>
+    </section>
+  </main>
 
-I am currently working on:
-
-- Propagation characterization for industrial environments  
-- Simulation and evaluation of advanced communication systems in Harsh industrial scenarios
-
-You can view my research output on [Google Scholar](https://scholar.google.com/citations?user=ISoyeTQAAAAJ&hl=es)  
-
----
-
-## 📚 Teaching
-
-As a Assistant Professor, I help students in courses such as:
-
-- **Communication Electronics**  
-- **Circuit Theory**  
-- **Software-Defined Radio (SDR) Receivers**
-
-As an Associate Professor, I lead lectures and laboratory sessions, guiding students through both theoretical foundations and practical applications. My teaching integrates hands-on use of advanced software tools such as GNU Radio and ADS, enabling students to gain experience in simulation, design, and experimental validation of communication systems.
-
-
----
-
-## 🔗 Find me online
-
-- [Google Scholar](https://scholar.google.com/citations?user=ISoyeTQAAAAJ&hl=es)
-- [LinkedIn](https://www.linkedin.com/in/jon-montalban-570277b0/)
-- [GitHub](https://github.com/mnoj)
-
----
-
-Feel free to get in touch if you'd like to collaborate or learn more about my work.
+  <div class="footer">Orria GitHub Pages (Jekyll) erabiliz sortuta. Front matter YAML fitxategiaren hasieran dago: date = 2025-11-15.</div>
+</body>
+</html>
